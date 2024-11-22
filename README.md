@@ -1,5 +1,6 @@
 # pun-detection
 This is for AI final project report use.
+The purpose is to make AI detect if a sentence contains a pun.
 It use BLOOM-560 AI as base model.
 The model and the datasets are all fetched through hugging face API. Training and testing by using transformer module.
 I adjust the "learning_rate", "num_train_epochs", and "weight_decay" these 3 training parameters.
